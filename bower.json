@@ -2,16 +2,16 @@
   "name": "bitcore-message",
   "main": "./bitcore-message.min.js",
   "version": "1.0.3",
-  "homepage": "https://github.com/particl/particl-bitcore-message",
+  "homepage": "https://github.com/ghost-coin/ghost-bitcore-message",
   "authors": [
     "BitPay"
   ],
-  "description": "Particl Message Verification and Signing for Particl",
+  "description": "Ghost Message Verification and Signing for Ghost",
   "moduleType": [
     "globals"
   ],
   "keywords": [
-    "particl",
+    "ghost",
     "bitcore",
     "btc",
     "satoshi",
